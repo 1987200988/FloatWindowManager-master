@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:id="@+id/activity_main"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorGray"
+              android:orientation="vertical"
+                tools:context="com.yinhuidata.mytest.MainActivity">
+
+
+
+
+
+
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt1"
+            android:text="显示"
+            />
+
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt2"
+            android:text="隐藏"
+            />
+
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt3"
+            android:text="改变集合数据"
+            android:visibility="visible"
+            />
+
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt4"
+            android:text="改变集合数据"
+            android:visibility="visible"
+
+            />
+
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt5"
+            android:text="改变集合数据"
+            android:visibility="visible"
+
+            />
+
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt6"
+            android:text="改变集合数据"
+            android:visibility="visible"
+
+            />
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt7"
+            android:text="改变集合数据"
+            android:visibility="visible"
+
+            />
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt8"
+            android:text="main2"
+            android:visibility="visible"
+
+            />
+
+
+
+
+
+
+</LinearLayout>

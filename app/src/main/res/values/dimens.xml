@@ -1,0 +1,706 @@
+<!--
+  ~ Copyright (C) 2019 Baidu, Inc. All Rights Reserved.
+  -->
+<resources>
+    <!-- 通用 -->
+
+    <!-- common button -->
+    <!-- 正方形btn -->
+    <dimen name="common_icon_small">28.1dp</dimen>
+    <dimen name="common_icon_mid">31.1dp</dimen>
+    <dimen name="common_icon_large">35.6dp</dimen>
+    <dimen name="common_home_bar_height">35.6dp</dimen>
+    <dimen name="common_title_bar_height">40dp</dimen>
+    <dimen name="common_title_bar_full_height">50dp</dimen>
+    <dimen name="common_title_bar_margin_bottom">14dp</dimen>
+    <!-- 长方形btn -->
+    <dimen name="common_btn_height_l">22.2dp</dimen>
+
+    <!-- common line -->
+    <dimen name="common_line">0.6dp</dimen>
+
+    <!-- common margin-->
+    <dimen name="common_margin_mid">8.9dp</dimen>
+    <dimen name="common_margin">8.9dp</dimen>
+    <dimen name="common_margin_small">3.9dp</dimen>
+    <dimen name="common_margin_small_new">24dp</dimen>
+    <dimen name="common_content_margin">35.6dp</dimen>
+    <dimen name="common_content_margin_small">17.8dp</dimen>
+
+    <!-- common text size -->
+    <dimen name="common_text_size_small">11.1sp</dimen>
+    <dimen name="common_text_size_mid">13.3sp</dimen>
+
+    <!-- common item -->
+    <dimen name="common_item_height">35.6dp</dimen>
+    <dimen name="common_list_item_height">30.0dp</dimen>
+
+    <!-- common right panel 右侧面板的宽度，如poi详情页，路线规划页面-->
+    <dimen name="common_menu_right_width">231.1dp</dimen>
+
+    <!-- 具体模块 -->
+    <!-- title bar-->
+    <dimen name="common_title_text_max_width">166.7dp</dimen>
+    <dimen name="common_title_text_desc_top">1.1dp</dimen>
+    <dimen name="common_title_text_desc_left">4.4dp</dimen>
+
+    <!--时间view-->
+    <dimen name="top_bar_text_size">15sp</dimen>
+
+    <!-- 二维码扫描-->
+
+    <!-- 用户信息完善 -->
+    <dimen name="user_info_layout_padding_left">35.6dp</dimen>
+    <dimen name="user_info_layout_padding_right">17.8dp</dimen>
+    <dimen name="user_info_icon_car_width">31.1dp</dimen>
+    <dimen name="user_info_edit_short_width">61.8dp</dimen>
+
+
+    <dimen name="user_info_icon_size">7.8dp</dimen>
+    <dimen name="user_info_icon_left">2.2dp</dimen>
+    <dimen name="user_info_save_margin">8.9dp</dimen>
+    <dimen name="user_info_head_size">40.0dp</dimen>
+    <!--StatusButton -->
+    <dimen name="status_button_width">36dp</dimen>
+    <dimen name="status_button_heigth">36dp</dimen>
+
+    <!--AreaSelect-->
+    <dimen name="area_select_mg_bottom">6.1dp</dimen>
+
+    <!--主界面-->
+    <dimen name="main_searchbox_text_size">11.1sp</dimen>
+    <dimen name="main_searchbutton_width">21.1dp</dimen>
+    <dimen name="main_searchbutton_height">21.1dp</dimen>
+    <dimen name="main_scale_title_size">8sp</dimen>
+    <dimen name="main_scale_indicator_height">1.1dp</dimen>
+
+    <dimen name="main_water_margin_right">58dp</dimen>
+    <dimen name="main_search_btn_size">17.8dp</dimen>
+    <dimen name="main_search_margin">8.9dp</dimen>
+    <dimen name="main_search_margin_right">4.4dp</dimen>
+
+
+    <!-- round process bar -->
+    <dimen name="round_progressbar_height">15.6dp</dimen>
+    <dimen name="round_progressbar_width">15.6dp</dimen>
+    <dimen name="round_progressbar_roundWidth">0.6dp</dimen>
+    <dimen name="round_progressbar_roundProgressWidth">1.1dp</dimen>
+
+    <!-- notification -->
+    <dimen name="notification_height">84dp</dimen>
+    <dimen name="notification_width">912dp</dimen>
+    <dimen name="notification_go_size">72dp</dimen>
+    <dimen name="notification_go_icon_size">17.8dp</dimen>
+    <dimen name="notification_text_size_s">11.1sp</dimen>
+    <dimen name="notification_text_size_l">13.3sp</dimen>
+    <dimen name="notification_cancle_size">31.1dp</dimen>
+    <dimen name="notification_right_margin">17.8dp</dimen>
+    <dimen name="notification_text_top">3.9dp</dimen>
+
+    <!--home menu-->
+    <dimen name="home_menu_item_size">55dp</dimen>
+    <dimen name="home_map_menu_icon_size">40.0dp</dimen>
+    <dimen name="home_menu_item_dis">3.0dp</dimen>
+
+    <!-- 途径点 add button  -->
+
+    <!-- 路线选择页面-->
+    <dimen name="route_detail_avoid_text_margin">10.0dp</dimen>
+
+    <dimen name="route_detail_item_margin_top">2.2dp</dimen>
+
+    <dimen name="route_detail_right_panel_margin">6.1dp</dimen>
+    <dimen name="route_error_margin">12.2dp</dimen>
+
+    <!--违章查询-->
+    <dimen name="peccancy_title_right_padding">20.7dp</dimen>
+    <dimen name="peccancy_title_two_part_padding_right">4.4dp</dimen>
+    <dimen name="peccancy_icon_money_width">12.3dp</dimen>
+    <dimen name="peccancy_icon_money_text_padding">2.2dp</dimen>
+    <dimen name="peccancy_icon_min_height">19.3dp</dimen>
+    <dimen name="peccancy_empty_text_margin_left">50dp</dimen>
+
+
+    <dimen name="peccancy_icon_left_padding">5.9dp</dimen>
+
+    <!-- about-->
+    <dimen name="about_icon_btn_width">177.8dp</dimen>
+    <dimen name="about_icon_btn_height">44dp</dimen>
+    <dimen name="about_icon_text_bottom_padding_s">13.5dp</dimen>
+    <dimen name="about_icon_text_bottom_min_height">10.4dp</dimen>
+    <dimen name="about_item_logo_width">64dp</dimen>
+
+    <dimen name="menu_grid_item_horizontal_space">14.8dp</dimen>
+
+    <dimen name="about_icon_check_text_size">11.8sp</dimen>
+    <dimen name="about_icon_text_size_small">7.3sp</dimen>
+    <dimen name="about_icon_text_size_large">18sp</dimen>
+
+
+    <!--login-->
+
+
+    <!-- poi detail-->
+
+    <dimen name="poi_detail_image_small">26.7dp</dimen>
+
+    <dimen name="poi_text_size_large">13.3sp</dimen>
+
+    <dimen name="poi_detail_addr_margin">6.7dp</dimen>
+    <dimen name="poi_detail_item_padding">17.8dp</dimen>
+
+    <dimen name="poi_detail_panel_padding">8.9dp</dimen>
+
+
+    <dimen name="poi_detail_item_margin">4.4dp</dimen>
+    <dimen name="poi_detail_image_height">35.6dp</dimen>
+
+    <!-- preference-->
+    <!-- 右侧面板-->
+    <dimen name="map_in_navi_setting_listitem_height">40.0dp</dimen>
+    <dimen name="map_in_navi_setting_text_size">12sp</dimen>
+    <dimen name="map_in_navi_setting_switch_btn_height">32dp</dimen>
+
+    <!--USB 更新-->
+    <dimen name="usb_update_icon_size">59.3dp</dimen>
+    <dimen name="usb_update_margin_small">2.2dp</dimen>
+
+    <!--favorites-->
+    <dimen name="fav_icon_size">31.1dp</dimen>
+
+    <!--setting-->
+    <dimen name="setting_item_height_offline">72dp</dimen>
+    <dimen name="setting_page_switch_btn_height">35.6dp</dimen>
+    <dimen name="setting_item_with_right_icon_padding_right">17.8dp</dimen>
+    <dimen name="setting_item_voice_padding_right">19.6dp</dimen>
+
+
+    <dimen name="setting_detail_item_padding_right">4.4dp</dimen>
+
+
+    <!--停车服务-->
+    <dimen name="parking_service_qrcode_length">56.7dp</dimen>
+    <dimen name="parking_service_no_service_margin">22.2dp</dimen>
+    <dimen name="parking_service_margin_top">5.6dp</dimen>
+    <dimen name="parking_no_ervice_margin_top">177dp</dimen>
+
+    <!-- search -->
+
+    <!--route guide-->
+    <!-- 导航简易诱导样式 -->
+    <dimen name="rg_common_guide_text_size">13.3sp</dimen>
+
+
+    <dimen name="rg_common_panel_width">231.1dp</dimen>
+    <dimen name="rg_panel_gap">5.0dp</dimen>
+    <dimen name="rg_road_name_height">44.4dp</dimen>
+    <dimen name="rg_hw_exit_label_padding">2.8dp</dimen>
+    <!-- 双诱导的下一个诱导 -->
+    <!-- 主辅路 -->
+    <dimen name="remind_title_height">50dp</dimen>
+    <dimen name="remind_operate_height">40dp</dimen>
+    <!-- 休息区 -->
+    <!-- cross enlarged image -->
+    <dimen name="rg_enlarge_image_info_height">2.2dp</dimen>
+
+    <!-- 控制按钮 -->
+    <!-- 辅助诱导信息左侧padding -->
+    <!-- 提醒 -->
+    <dimen name="rg_remind_height">97.8dp</dimen>
+    <dimen name="rg_dividing_line_size">0.6dp</dimen>
+    <!-- 底部按钮 -->
+    <!-- 路况条 roadconditionbar -->
+    <dimen name="rg_roadcondition_bar_panel_height">200dp</dimen>
+    <dimen name="rg_roadcondition_bar_panel_margin_bottom">52dp</dimen>
+    <dimen name="rg_roadcondition_bar_line_width">12dp</dimen>
+    <dimen name="rg_roadcondition_bar_line_height">185dp</dimen>
+    <dimen name="rg_roadcondition_bar_car_size">30dp</dimen>
+    <dimen name="rg_roadcondition_bar_car_layout_y">170dp</dimen>
+    <!-- 途径点 -->
+    <!-- 水印 -->
+    <!-- 比例尺 -->
+
+    <!-- 沿途搜面板 -->
+
+    <!-- highway -->
+    <dimen name="highway_ic_text_size">7.8sp</dimen>
+
+    <!--路口放大图-->
+    <!--pick point -->
+    <!--assist guide-->
+    <dimen name="rg_assist_limit_large_text_size">14sp</dimen>
+    <dimen name="rg_assist_limit_small_text_size">12sp</dimen>
+
+    <!-- footer view-->
+    <dimen name="foot_view_height">33.3dp</dimen>
+    <dimen name="foot_view_padding">6.7dp</dimen>
+    <dimen name="foot_view_margin">17.8dp</dimen>
+    <dimen name="head_view_margin">2.2dp</dimen>
+
+    <!-- search around -->
+    <dimen name="search_around_grid_column">18dp</dimen>
+    <dimen name="search_around_grid_second_column">135dp</dimen>
+
+
+    <dimen name="common_home_maigin">17.8dp</dimen>
+    <dimen name="place_holder_width">236.7dp</dimen>
+    <dimen name="place_holder_margin_top">50dp</dimen>
+    <dimen name="search_around_sub_width">69dp</dimen>
+    <dimen name="search_around_4s_width">156dp</dimen>
+
+
+    <!--volume bar-->
+    <dimen name="volume_bar_progress_height">4.4dp</dimen>
+    <dimen name="volume_progress_tv_width">20.6dp</dimen>
+    <dimen name="scale_indicator_length">35dp</dimen>
+
+    <!--POIMarker view-->
+    <dimen name="poi_marker_text_margin_right">21dp</dimen>
+    <dimen name="poi_marker_margin_left_right">24dp</dimen>
+    <dimen name="poi_marker_margin_left_left">29.4dp</dimen>
+    <dimen name="neo_way_point_marker_divider_margin_top">21dp</dimen>
+    <dimen name="neo_way_point_marker_divider_height">36dp</dimen>
+    <dimen name="neo_way_point_marker_divider_width">1dp</dimen>
+    <dimen name="neo_way_point_add_del_text_width">42dp</dimen>
+    <dimen name="neo_way_point_add_del_margin_top">12dp</dimen>
+    <dimen name="poi_marker_icon_size">36dp</dimen>
+    <dimen name="poi_marker_margin_top">15dp</dimen>
+    <dimen name="poi_marker_height">98dp</dimen>
+    <dimen name="poi_marker_width">306dp</dimen>
+    <dimen name="poi_marker_middle_height">2.65dp</dimen>
+    <dimen name="poi_marker_view_height">38dp</dimen>
+
+
+    <!-- widget -->
+    <dimen name="widget_margin">4dp</dimen>
+    <dimen name="widget_road_name_width">80dp</dimen>
+    <dimen name="widget_road_name_text_size">12sp</dimen>
+    <dimen name="widget_rg_tbt_left">52dp</dimen>
+    <dimen name="widget_rg_tbt_top">5dp</dimen>
+    <dimen name="widget_rg_dis_text_size">18sp</dimen>
+    <dimen name="widget_rg_dis_width">30dp</dimen>
+    <dimen name="widget_rg_dis_height">25dp</dimen>
+    <dimen name="widget_rg_unit_text_size">10sp</dimen>
+    <dimen name="widget_rg_unit_width">16dp</dimen>
+
+
+    <!-- MapAuto 2.0 begin -->
+
+    <!-- common -->
+    <dimen name="neo_common_card_width">348dp</dimen>
+    <dimen name="neo_common_card_height_large">96dp</dimen>
+    <dimen name="neo_common_card_height_medium">66dp</dimen>
+    <dimen name="neo_common_card_height_small">60dp</dimen>
+    <dimen name="neo_common_card_height_small_new">72dp</dimen>
+    <dimen name="neo_common_big_icon_size">72dp</dimen>
+    <dimen name="neo_common_small_icon_size">36dp</dimen>
+    <dimen name="neo_common_card_corner">3dp</dimen>
+    <dimen name="neo_common_tall_card_height">120dp</dimen>
+    <dimen name="neo_common_icon_size_large">84dp</dimen>
+    <dimen name="neo_common_icon_size_medium">60dp</dimen>
+    <dimen name="neo_common_icon_size_small">48dp</dimen>
+    <dimen name="neo_common_icon_size_x_small">36dp</dimen>
+
+    <dimen name="neo_common_card_item_width">36dp</dimen>
+    <dimen name="neo_common_card_item_width_right">38.5dp</dimen>
+    <dimen name="neo_common_card_ic_margin_left">24dp</dimen>
+    <dimen name="neo_common_card_ic_margin_top">30dp</dimen>
+    <dimen name="neo_common_card_margin_left">108dp</dimen>
+    <dimen name="neo_common_card_margin_left_new">108dp</dimen>
+    <dimen name="neo_abnormal_card_height">408dp</dimen>
+    <dimen name="neo_common_card_margin_bottom">24dp</dimen>
+    <dimen name="neo_common_card_item_margin_right">12dp</dimen>
+    <dimen name="neo_common_card_padding_medium">20dp</dimen>
+
+
+    <dimen name="neo_toast_card_height">72dp</dimen>
+    <dimen name="neo_toast_card_margin_left">24dp</dimen>
+
+
+    <!-- common ListView -->
+    <dimen name="neo_list_vertical_margin">12dp</dimen>
+    <dimen name="neo_list_item_ic_width">48dp</dimen>
+    <dimen name="neo_list_sug_item_margin_left">18dp</dimen>
+    <dimen name="neo_list_item_height">72dp</dimen>
+    <dimen name="neo_list_item_height_large">84dp</dimen>
+    <dimen name="neo_list_search_around_padding_top">14dp</dimen>
+    <dimen name="neo_search_around_top_view_padding_left">21dp</dimen>
+
+    <!-- control panel -->
+
+    <dimen name="neo_control_panel_width">60dp</dimen>
+    <dimen name="neo_control_time_width">114dp</dimen>
+    <dimen name="neo_control_time_width_vertical">60dp</dimen>
+    <dimen name="neo_control_time_height_vertical">108dp</dimen>
+    <dimen name="neo_control_time_height">60dp</dimen>
+    <dimen name="neo_control_line_width">48dp</dimen>
+    <dimen name="neo_control_time_left">16dp</dimen>
+    <dimen name="neo_control_time_top">24dp</dimen>
+    <dimen name="neo_control_panel_height">60dp</dimen>
+    <dimen name="neo_control_panel_left_20">20dp</dimen>
+    <dimen name="neo_control_panel_logo_left">24dp</dimen>
+    <dimen name="neo_control_panel_left_24">24dp</dimen>
+    <dimen name="neo_control_panel_top_search">12dp</dimen>
+    <dimen name="neo_control_line_right">6dp</dimen>
+    <dimen name="neo_control_panel_left_logo">24dp</dimen>
+    <dimen name="neo_control_panel_top">18dp</dimen>
+    <dimen name="neo_control_speed">88dp</dimen>
+    <dimen name="neo_control_search">72dp</dimen>
+
+    <dimen name="neo_control_panel_bottom">18dp</dimen>
+    <dimen name="neo_control_panel_line">0.75dp</dimen>
+    <dimen name="neo_control_panel_tab_left">45dp</dimen>
+    <dimen name="neo_control_panel_tab_zoom_height">52dp</dimen>
+    <dimen name="neo_control_panel_voice_up_top">14.5dp</dimen>
+    <dimen name="neo_speed_margin_right">18dp</dimen>
+    <dimen name="neo_speed_margin_top">9dp</dimen>
+    <dimen name="neo_control_zoom_margin_bottom">88dp</dimen>
+    <dimen name="neo_rg_img">30dp</dimen>
+    <dimen name="neo_rg_con">8sp</dimen>
+    <dimen name="neo_back_home_ic">53.5dp</dimen>
+    <dimen name="neo_back_home_top">25dp</dimen>
+    <dimen name="neo_assist_vertical">156.5dp</dimen>
+    <dimen name="neo_assist_horizontal">83dp</dimen>
+    <dimen name="neo_assist_multi_window">24dp</dimen>
+
+
+    <!-- user center -->
+
+    <dimen name="neo_home_icon_margin_left">30dp</dimen>
+    <dimen name="neo_home_text_margin_top">4dp</dimen>
+    <dimen name="neo_home_low_power_margin">24dp</dimen>
+
+    <dimen name="neo_center_icon_width">44dp</dimen>
+    <dimen name="neo_center_icon_card_height">90dp</dimen>
+    <dimen name="neo_center_icon_card_height_new">96dp</dimen>
+    <dimen name="neo_center_icon_margin_right">14.5dp</dimen>
+    <dimen name="neo_center_limit_margin_top">5dp</dimen>
+    <dimen name="neo_center_tv_margin_left">12.5dp</dimen>
+    <dimen name="neo_center_tv_margin_left_car_new">28dp</dimen>
+    <dimen name="neo_center_tv_margin_left_new">8dp</dimen>
+    <dimen name="neo_center_tv_margin_right">24dp</dimen>
+    <dimen name="neo_center_car_plant_width">43.5dp</dimen>
+    <dimen name="neo_center_car_plant_height">25.5dp</dimen>
+    <dimen name="neo_center_item_height">60dp</dimen>
+    <dimen name="neo_center_item_height_new">72dp</dimen>
+
+
+    <dimen name="neo_favorite_routeplan_config_height">179dp</dimen>
+    <dimen name="neo_routeplan_config_width">144dp</dimen>
+    <dimen name="neo_routeplan_config_height">48dp</dimen>
+    <dimen name="neo_routeplan_item_tv_margin">15dp</dimen>
+    <dimen name="neo_routeplan_item_height_one">105dp</dimen>
+    <dimen name="neo_routeplan_item_height_two">165dp</dimen>
+    <dimen name="neo_routeplan_item_height_three">224dp</dimen>
+
+    <dimen name="neo_favorite_center_line_height">36dp</dimen>
+    <dimen name="neo_favorite_center_margin_left">6dp</dimen>
+    <dimen name="neo_favorite_toast_width">264dp</dimen>
+    <dimen name="neo_favorite_toast_height">72dp</dimen>
+
+    <dimen name="neo_about_tab_width">174dp</dimen>
+    <dimen name="neo_about_tag_icon_height">3dp</dimen>
+    <dimen name="neo_about_tag_icon_width">24dp</dimen>
+    <dimen name="neo_about_updata_width">160dp</dimen>
+    <dimen name="neo_about_updata_margin_top">50dp</dimen>
+    <dimen name="neo_about_server_tv_padding">32dp</dimen>
+    <dimen name="neo_about_server_company_margin_top">6dp</dimen>
+    <dimen name="neo_about_server_title_top">19dp</dimen>
+    <dimen name="neo_about_server_line_space">10dp</dimen>
+    <dimen name="neo_about_version_margin_top">27dp</dimen>
+    <dimen name="neo_login_qr_code_bg_width">132dp</dimen>
+    <dimen name="neo_login_qr_code_width">114.6dp</dimen>
+
+    <!-- route search & passing point -->
+
+    <dimen name="neo_search_card_height">72dp</dimen>
+    <dimen name="neo_search_history_list_height">240dp</dimen>
+    <dimen name="neo_search_list_height">408dp</dimen>
+    <dimen name="neo_search_item_margin_top">4dp</dimen>
+    <dimen name="neo_search_around_margin_left">27dp</dimen>
+    <dimen name="neo_search_item_distance_margin_right">3dp</dimen>
+    <dimen name="neo_search_item_ic_margin_right">6dp</dimen>
+    <dimen name="neo_search_poi_child_margin_right">27dp</dimen>
+    <dimen name="neo_search_poi_sub_margin_right">30dp</dimen>
+    <dimen name="neo_search_around_location_max_width">155dp</dimen>
+    <dimen name="neo_search_along_height">38dp</dimen>
+    <!-- route planning -->
+
+    <!-- POI card -->
+    <dimen name="neo_poi_detail_item_margin_left">16dp</dimen>
+    <dimen name="neo_poi_detail_item_guidance_ic_width">48dp</dimen>
+    <dimen name="neo_poi_detail_item_search_sub_margin_left">40dp</dimen>
+    <dimen name="neo_poi_detail_item_favor_width">174dp</dimen>
+    <dimen name="neo_poi_detail_item_padding_bottom">14.67dp</dimen>
+    <dimen name="neo_poi_detail_item_address_margin_top">5.33dp</dimen>
+    <dimen name="neo_poi_detail_padding_bottom">24dp</dimen>
+
+    <!-- setting panel -->
+    <dimen name="neo_setting_height">492dp</dimen>
+    <dimen name="neo_setting_height_out">506dp</dimen>
+    <dimen name="neo_setting_margin_top_common">23.95dp</dimen>
+    <dimen name="neo_setting_margin_top_common_top">21.5dp</dimen>
+    <dimen name="neo_setting_margin_top_play">27.7dp</dimen>
+    <dimen name="neo_setting_margin_bottom_play">41.3dp</dimen>
+    <dimen name="neo_setting_margin_left">23dp</dimen>
+    <dimen name="neo_setting_margin_left_outside">96dp</dimen>
+    <dimen name="neo_setting_rg_width">300dp</dimen>
+    <dimen name="neo_setting_rg_height">48dp</dimen>
+    <dimen name="neo_setting_rg_top">12.5dp</dimen>
+    <dimen name="neo_setting_route_top">17.95dp</dimen>
+    <dimen name="neo_setting_rg_left">24dp</dimen>
+    <dimen name="neo_setting_rg_left_voice">24.5dp</dimen>
+    <dimen name="neo_setting_rg_search_top">27dp</dimen>
+    <dimen name="neo_setting_rg_voice_left">184dp</dimen>
+    <dimen name="neo_setting_rg_voice_width">36dp</dimen>
+    <dimen name="neo_setting_rg_search_left">36dp</dimen>
+    <dimen name="neo_setting_rg_search_top_out">34dp</dimen>
+    <dimen name="neo_setting_rg_search_in">36dp</dimen>
+    <dimen name="neo_setting_rg_search_in_out">34dp</dimen>
+    <dimen name="neo_setting_rg_search_left_in">11.5dp</dimen>
+    <dimen name="neo_setting_rg_search_left_out">168dp</dimen>
+    <dimen name="neo_setting_rg_route_left_out">36dp</dimen>
+    <dimen name="neo_setting_rg_route_width">60dp</dimen>
+    <dimen name="neo_setting_rg_route_top">8dp</dimen>
+    <dimen name="neo_setting_route_rb_width">144dp</dimen>
+    <dimen name="neo_setting_route_rb_left">12dp</dimen>
+    <dimen name="neo_setting_route_mode_top">23.5dp</dimen>
+    <dimen name="neo_setting_route_mode_left">24dp</dimen>
+    <dimen name="neo_setting_route_mode_width">300dp</dimen>
+    <dimen name="neo_setting_route_offline_top">32.5dp</dimen>
+    <dimen name="neo_setting_route_mode_in_top">15dp</dimen>
+    <dimen name="neo_setting_other_bottom">281.5dp</dimen>
+    <dimen name="neo_setting_padding">5dp</dimen>
+    <dimen name="neo_setting_tab_width">24dp</dimen>
+    <dimen name="neo_setting_tab_height">3dp</dimen>
+    <dimen name="neo_setting_seek_bar_left">6dp</dimen>
+    <dimen name="neo_setting_seek_bar_margin">10dp</dimen>
+    <dimen name="neo_dialog_left">25.5dp</dimen>
+    <dimen name="neo_setting_header_height">72dp</dimen>
+
+
+
+    <!--dialog data-->
+    <dimen name="neo_dialog_width">264dp</dimen>
+    <dimen name="neo_dialog_width_new">348dp</dimen>
+    <dimen name="neo_dialog_diaclaimer_width">406dp</dimen>
+    <dimen name="neo_dialog_height">360dp</dimen>
+    <dimen name="neo_dialog_height_new">240dp</dimen>
+    <dimen name="neo_dialog_height_top">300dp</dimen>
+    <dimen name="neo_notice_dialog_width">264dp</dimen>
+    <dimen name="neo_notice_dialog_height">72dp</dimen>
+    <dimen name="neo_plan_dialog_width">301dp</dimen>
+    <dimen name="neo_notice_dialog_margin_top">83dp</dimen>
+    <dimen name="neo_notice_dialog_margin_left">96dp</dimen>
+    <dimen name="neo_notice_dialog_line">0.75dp</dimen>
+    <dimen name="neo_notice_dialog_height_bottom">60dp</dimen>
+    <dimen name="neo_notice_dialog_top">684dp</dimen>
+    <dimen name="neo_floating_view_height">60dp</dimen>
+    <dimen name="neo_dialog_multi_window_height">253dp</dimen>
+    <dimen name="neo_dialog_multi_window_height_top">180.5dp</dimen>
+    <dimen name="neo_dialog_line_space_height">8dp</dimen>
+    <dimen name="neo_dialog_content_margin">23dp</dimen>
+
+    <dimen name="neo_landscape_dialog_layout_left">108dp</dimen>
+    <dimen name="neo_landscape_dialog_layout_top">150dp</dimen>
+    <dimen name="neo_landscape_dialog_button_width">108dp</dimen>
+    <dimen name="neo_landscape_dialog_content_width">240dp</dimen>
+    <dimen name="neo_landscape_dialog_content_height">240dp</dimen>
+    <dimen name="neo_landscape_dialog_content_margin">10dp</dimen>
+
+    <!--scale view-->
+    <dimen name="scale_view_margin_right_logo">16dp</dimen>
+
+    <!-- 区间限速 -->
+    <dimen name="circular_progress_bar_default_out_radius">40dp</dimen>
+    <dimen name="circular_progress_bar_default_progress_width">8dp</dimen>
+    <dimen name="circular_progress_bar_main_text_size">22.67sp</dimen>
+    <dimen name="circular_progress_bar_sub_text_size">9.33sp</dimen>
+
+    <!-- offline data -->
+    <dimen name="neo_offline_data_height">452dp</dimen>
+    <dimen name="neo_offline_data_top">24dp</dimen>
+    <dimen name="neo_offline_data_right">12dp</dimen>
+    <dimen name="neo_offline_usb">84dp</dimen>
+    <dimen name="neo_offline_usb_top">144dp</dimen>
+    <dimen name="neo_offline_usb_top_info">12dp</dimen>
+    <dimen name="neo_offline_data_line">2dp</dimen>
+    <!-- route guide info card -->
+    <!-- 108 + 60 = 168 -->
+    <dimen name="neo_rg_card_gap">12dp</dimen>
+    <!-- 0.5dp for item divider line -->
+    <dimen name="neo_rg_card_content_margin">24dp</dimen>
+    <dimen name="neo_rg_card_content_margin_speed">18dp</dimen>
+    <dimen name="neo_rg_card_primary_content_left_margin">108dp</dimen>
+    <dimen name="neo_rg_card_primary_height">120dp</dimen>
+    <dimen name="neo_rg_card_primary_icon_size">72dp</dimen>
+    <dimen name="neo_rg_card_primary_left_margin">24dp</dimen>
+    <dimen name="neo_rg_card_primary_right_margin">12dp</dimen>
+    <dimen name="neo_rg_card_secondary_right_margin">24dp</dimen>
+    <dimen name="neo_rg_card_primary_distance_top_margin">24dp</dimen>
+    <dimen name="neo_rg_card_highway_text_horizontal_padding">5.5dp</dimen>
+    <dimen name="neo_rg_card_highway_text_margin_right">7.5dp</dimen>
+    <dimen name="neo_rg_card_divider_line_size">0.5dp</dimen>
+    <dimen name="neo_rg_card_primary_multi_window_turn_icon_height">48dp</dimen>
+    <dimen name="neo_rg_card_primary_multi_window_width">264dp</dimen>
+    <dimen name="neo_rg_card_primary_multi_window_icon_margin_left">24dp</dimen>
+    <dimen name="neo_rg_card_primary_multi_window_icon_margin_top">12dp</dimen>
+    <dimen name="neo_rg_card_primary_multi_window_distance_top_margin">6dp</dimen>
+
+    <!-- 2.2 highway info -->
+    <dimen name="neo_rg_card_highway_container_margin">12dp</dimen>
+    <dimen name="neo_rg_card_highway_container_margin_top">8dp</dimen>
+    <dimen name="neo_rg_card_highway_text_margin_top">6dp</dimen>
+    <dimen name="neo_rg_card_highway_container_background_corners">5dp</dimen>
+    <dimen name="neo_rg_card_highway_container_width">168dp</dimen>
+    <dimen name="neo_rg_card_highway_service_container_height">54dp</dimen>
+    <dimen name="neo_rg_card_highway_toll_gate_container_height">88dp</dimen>
+
+    <dimen name="neo_rg_lane_card_height">60dp</dimen>
+    <dimen name="neo_rg_lane_icon_size">28dp</dimen>
+    <dimen name="neo_rg_lane_icon_horizontal_margin">6dp</dimen>
+
+    <dimen name="neo_rg_bottom_info_text_padding_horizontal">29dp</dimen>
+    <dimen name="neo_rg_bottom_info_text_bottom_margin">15dp</dimen>
+    <dimen name="neo_rg_bottom_info_text_height">70dp</dimen>
+
+    <dimen name="neo_rg_mini_map_size">132dp</dimen>
+    <dimen name="neo_rg_mini_map_bottom_margin">60dp</dimen>
+
+    <!-- 96 + 72 = 168 -->
+    <dimen name="neo_rg_count_down_dialog_card_height">144dp</dimen>
+    <dimen name="neo_rg_count_down_dialog_content_height">84dp</dimen>
+    <dimen name="neo_rg_count_down_dialog_button_height">60dp</dimen>
+    <dimen name="neo_rg_count_down_dialog_button_width">162dp</dimen>
+
+    <!--48 + 252 = 300 -->
+    <dimen name="neo_rg_enlarge_image_card_height">300dp</dimen>
+    <dimen name="neo_rg_enlarge_image_card_title_height">48dp</dimen>
+
+    <!-- customized toast -->
+
+    <!-- TextView & Font -->
+
+
+    <dimen name="neo_common_font_size_8">8sp</dimen>
+    <dimen name="neo_common_font_size_7">7sp</dimen>
+    <dimen name="neo_common_font_size_12">12sp</dimen>
+    <dimen name="neo_common_font_size_16">16sp</dimen>
+    <dimen name="neo_common_font_size_20">20sp</dimen>
+    <dimen name="neo_common_font_size_21">21sp</dimen>
+    <dimen name="neo_common_font_size_22">22sp</dimen>
+    <dimen name="neo_common_font_size_18">18sp</dimen>
+    <dimen name="neo_common_font_size_14">14sp</dimen>
+    <dimen name="neo_common_font_size_15">15sp</dimen>
+    <dimen name="neo_rg_card_big_number_font_size">39sp</dimen>
+
+    <dimen name="neo_common_font_size_39">39sp</dimen>
+
+    <!-- 语音广场 -->
+    <dimen name="voice_square_item_padding_left">24dp</dimen>
+    <dimen name="voice_square_item_padding_right">24dp</dimen>
+    <dimen name="voice_square_item_icon_width">54dp</dimen>
+    <dimen name="voice_square_item_icon_corner">3dp</dimen>
+    <dimen name="voice_square_item_progress_bar_height">1.5dp</dimen>
+    <dimen name="voice_square_item_audition_width">16dp</dimen>
+    <dimen name="voice_square_item_audition_margin_top">46dp</dimen>
+    <dimen name="voice_square_item_audition_margin_left">34dp</dimen>
+    <dimen name="voice_square_item_download_btn_width">36dp</dimen>
+    <dimen name="voice_square_downloaded_horizontal_line_thickness">0.75dp</dimen>
+    <dimen name="voice_square_bottom_view_height">71dp</dimen>
+    <dimen name="voice_square_downloaded_vertical_line_thickness">0.75dp</dimen>
+    <dimen name="voice_square_downloaded_vertical_line_height">36dp</dimen>
+    <dimen name="voice_square_downloaded_vertical_line_margin_bottom">18dp</dimen>
+    <dimen name="voice_square_tab_item_height">3dp</dimen>
+    <dimen name="voice_square_list_margin_top">24.5dp</dimen>
+    <dimen name="voice_square_list_margin_bottom">24.5dp</dimen>
+    <dimen name="voice_square_item_use_button_height">24dp</dimen>
+    <dimen name="voice_square_item_use_button_width">48dp</dimen>
+    <dimen name="voice_square_wifi_icon_width">72dp</dimen>
+    <dimen name="voice_square_wifi_icon_height">72dp</dimen>
+    <dimen name="voice_square_wifi_icon_margin_top">131dp</dimen>
+    <dimen name="voice_square_no_network_text_margin_top">180dp</dimen>
+    <dimen name="voice_square_item_height">80dp</dimen>
+    <dimen name="voice_square_padding_8dp">8dp</dimen>
+    <dimen name="voice_square_index_view_padding">75dp</dimen>
+
+    <!-- MapAuto 2.0 end -->
+
+    <!--口令分享-->
+
+
+    <!-- 组队出行 我的队伍-->
+    <dimen name="gd_my_team_line_layout_width">234.66dp</dimen>
+    <dimen name="gd_common_layout_margin_top">53.33dp</dimen>
+    <dimen name="gd_share_code_tip_margin_top">61.78dp</dimen>
+    <dimen name="gd_share_code_tip_margin_left">61.55dp</dimen>
+    <dimen name="gd_share_code_tip_height">22.22dp</dimen>
+    <dimen name="gd_share_code_tip_width">112dp</dimen>
+    <dimen name="gd_share_code_content_margin_top">11.11dp</dimen>
+    <dimen name="gd_share_code_content_margin_left">49.78dp</dimen>
+    <dimen name="gd_share_code_content_margin_right">49.78dp</dimen>
+    <dimen name="gd_share_code_end_time_tip_height">18.66dp</dimen>
+    <dimen name="gd_share_code_end_time_tip_margin_top">93.55dp</dimen>
+    <dimen name="gd_share_code_end_time_tip_margin_left">21.33dp</dimen>
+    <dimen name="gd_share_code_end_time_tip_margin_right">21.33dp</dimen>
+    <dimen name="gd_share_code_end_time_tip_margin_bottom">21.33dp</dimen>
+    <dimen name="gd_share_code_end_time_tip_text_size">10.66sp</dimen>
+    <dimen name="gd_join_tean_code_layout_height">31.11dp</dimen>
+
+    <dimen name="gd_number_key_radius">1.07dp</dimen>
+
+    <dimen name="gd_join_input_edit_cursor_margin">-6.67dp</dimen>
+
+    <dimen name="neo_gd_common_card_height">492dp</dimen>
+    <dimen name="neo_gd_common_card_margin_top">24dp</dimen>
+    <dimen name="neo_gd_common_card_item_margin_top">12dp</dimen>
+    <dimen name="neo_gd_common_card_item_margin_bottom">16dp</dimen>
+    <dimen name="neo_gd_common_card_item_margin_bottom_large">36dp</dimen>
+    <dimen name="neo_gd_common_line">0.75dp</dimen>
+
+    <dimen name="neo_gd_team_entry_join_margin_top">19.75dp</dimen>
+    <dimen name="neo_gd_team_entry_join_margin_left">42.05dp</dimen>
+    <dimen name="neo_gd_team_entry_join_edit_text_size">44sp</dimen>
+    <dimen name="neo_gd_team_entry_join_edit_margin_top">5dp</dimen>
+    <dimen name="neo_gd_team_entry_join_cursor_width">2dp</dimen>
+    <dimen name="neo_gd_team_entry_join_cursor_height">34dp</dimen>
+    <dimen name="neo_gd_team_entry_join_bottom_line_margin">7dp</dimen>
+    <dimen name="neo_gd_team_entry_broad_edit_text_size">23sp</dimen>
+    <dimen name="neo_gd_team_entry_broad_layout_margin_top">59dp</dimen>
+    <dimen name="neo_gd_team_entry_broad_layout_margin_left">14.95dp</dimen>
+    <dimen name="neo_gd_team_entry_broad_key_height">42dp</dimen>
+    <dimen name="neo_gd_team_entry_broad_horizontal_spacing">5dp</dimen>
+    <dimen name="neo_gd_team_entry_broad_vertical_spacing">4dp</dimen>
+
+    <dimen name="neo_gd_team_leader_logo_width">25.35dp</dimen>
+    <dimen name="neo_gd_team_leader_logo_height">11dp</dimen>
+
+    <dimen name="neo_gd_marker_height">67dp</dimen>
+    <dimen name="neo_gd_marker_width">198dp</dimen>
+    <dimen name="neo_gd_marker_text_height">18dp</dimen>
+    <dimen name="neo_gd_marker_margin">5dp</dimen>
+    <dimen name="neo_gd_marker_margin_top">13dp</dimen>
+    <dimen name="neo_gd_marker_dis_max_width">71dp</dimen>
+    <dimen name="neo_gd_marker_name_max_width">106dp</dimen>
+    <dimen name="neo_gd_marker_line_width">1.5dp</dimen>
+    <dimen name="neo_gd_marker_head_length">66dp</dimen>
+    <dimen name="neo_gd_marker_head_padding">12.65dp</dimen>
+    <dimen name="neo_gd_marker_head_content_length">48dp</dimen>
+    <!--微信互联-->
+    <dimen name="neo_wechat_item_height">72dp</dimen>
+    <dimen name="neo_wechat_item_space">11.7dp</dimen>
+    <dimen name="neo_wechat_qr_margin_top">15.65dp</dimen>
+    <dimen name="neo_phone_item_space">12.15dp</dimen>
+    <dimen name="neo_wechat_tv_space">8dp</dimen>
+    <dimen name="neo_wechat_tv_margin_top">10.9dp</dimen>
+    <dimen name="neo_wechat_icon_margin_top">3.65dp</dimen>
+    <dimen name="neo_wechat_name_margin_top">1.5dp</dimen>
+    <dimen name="neo_wechat_line_margin_top">26.2dp</dimen>
+    <dimen name="neo_wechat_line_icon_margin_top">24.9dp</dimen>
+
+    <!--右侧面板-->
+    <dimen name="common_panel_width">235dp</dimen>
+    <dimen name="common_panel_title_height">43dp</dimen>
+    <dimen name="common_panel_margin">10dp</dimen>
+    <dimen name="common_panel_icon_size">32dp</dimen>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2019 Baidu, Inc. All Rights Reserved.
+  -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="100dp"
+              android:layout_marginTop="20dp"
+
+              android:layout_height="40dp">
+    <RelativeLayout
+            android:id="@+id/team_travel_layout"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:background="@color/colorAccent"
+            >
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:layout_centerInParent="true"
+                android:id="@+id/three_tv"
+                ></TextView>
+    </RelativeLayout>
+</LinearLayout>
